@@ -16,7 +16,10 @@ float: left;
   font-family: "Times New Roman", Times, serif;
   margin:5px;  
 }
-
+body
+{
+	background-color: blue;
+}
 div {
   
   border: 2px solid black;
